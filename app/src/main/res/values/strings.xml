@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Read Me</string>
+
+    <string name="history">History</string>
+    <string name="exit">Exit</string>
+    <string name="clear_history">Clear History</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="detect">Detect</string>
+    <string name="no_text">No English text or Barcode/QR-Code found in the image</string>
+</resources>
